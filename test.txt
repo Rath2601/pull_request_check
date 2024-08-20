@@ -1,0 +1,3 @@
+1. sample code 
+
+### *2. checking markdown feature in text file*
